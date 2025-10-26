@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 343 on 2021-04-05 at 23:37 (BST)-->
-<!--Last edited by Ukelele version 343 on 2021-04-06 at 00:07 (BST)-->
+<!--Last edited by yaybrianna version 344 on 2025-10-26 at 19:16 (EDT)-->
 <keyboard group="126" id="-16041" name="real prog dvorak" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -162,7 +162,7 @@
             <key code="21" output="4"/>
             <key code="22" output="6"/>
             <key code="23" output="5"/>
-            <key code="24" output="."/>
+            <key code="24" output="`"/>
             <key code="25" output="9"/>
             <key code="26" output="7"/>
             <key code="27" output="%"/>
